@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./C:\projects\mohsina.jpeg"
+    src="C:\projects\mohsina.jpeg"
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
@@ -83,5 +83,16 @@ REST API
 Authentication
    ↓
 Full Stack Projects
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MohsinaPROG&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MohsinaPROG&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohsinaPROG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohsinaPROG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
