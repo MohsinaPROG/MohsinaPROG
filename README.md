@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="C://projects//mohsina.jpeg"
+    src="./C:/projects/mohsina.jpeg"
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://github.com/MohsinaPROG">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/MohsinaPROG?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/MohsinaPROG">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/MohsinaPROG?label=Stars&style=for-the-badge" />
   </a>
 </p>
 
