@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./mohsina.jpeg"
+    src="C:\Users\USER\Downloads\mohsina.jpeg"
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
