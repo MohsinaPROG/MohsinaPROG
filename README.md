@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="C:\\projects\\mohsina.jpeg"
+    src="C://projects//mohsina.jpeg"
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
@@ -83,10 +83,3 @@ REST API
 Authentication
    ↓
 Full Stack Projects
-
-![](https://github-readme-stats.shion.dev/api?username=MohsinaPROG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MohsinaPROG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohsinaPROG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
