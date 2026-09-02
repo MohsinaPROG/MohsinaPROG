@@ -1,14 +1,14 @@
-<!-- ======================= BANNER ======================= -->
+
 
 <p align="center">
   <img 
-    src="./assets/banner.png" 
+    src="./"C:\projects\mohsina.jpeg"" 
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
 </p>
 
-<!-- ======================= INTRO ======================= -->
+
 
 <h1 align="center">Hi 👋, I'm Mohsina Hasna</h1>
 
@@ -83,3 +83,5 @@ REST API
 Authentication
    ↓
 Full Stack Projects
+
+
