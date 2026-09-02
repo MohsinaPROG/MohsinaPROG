@@ -1,9 +1,6 @@
 
 
 <p align="center">
-  <img 
-     src="https://github.com/user-attachments/assets/09ba5f85-25ca-4ccd-ac24-89dede2190f7" />
-
     alt="Mohsina Hasna - Full Stack Developer"
     width="100%"
   />
