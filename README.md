@@ -1,11 +1,5 @@
 
 
-<p align="center">
-    alt="Mohsina Hasna - Full Stack Developer"
-    width="100%"
-  />
-</p>
-
 
 
 <h1 align="center">Hi 👋, I'm Mohsina Hasna</h1>
